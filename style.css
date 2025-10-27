@@ -34,5 +34,11 @@ section {
 }
 
 .logo {
-    padding-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.links {
+    padding-top: 30px;
+    width: 250px;
 }
